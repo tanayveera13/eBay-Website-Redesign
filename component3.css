@@ -1,0 +1,1017 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div316,
+.rectangle-div317 {
+  position: absolute;
+  top: 762px;
+  border-radius: var(--br-6xs);
+  height: 56px;
+}
+.rectangle-div316 {
+  left: 638px;
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-indigo-100);
+  box-sizing: border-box;
+  width: 281px;
+  cursor: pointer;
+}
+.rectangle-div317 {
+  left: 959px;
+  background-color: var(--color-indigo-100);
+  width: 282px;
+}
+.rectangle-div318 {
+  position: absolute;
+  top: 993px;
+  left: 639px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 649px;
+  height: 116px;
+}
+.cash-on-delivery-1-icon5 {
+  position: absolute;
+  top: 1013px;
+  left: 1013px;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+.delivery-truck-1-icon3,
+.security-1-icon3 {
+  position: absolute;
+  top: 1015px;
+  left: 868px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.delivery-truck-1-icon3 {
+  top: 1009px;
+  left: 715px;
+  width: 34px;
+  height: 34px;
+}
+.rectangle-div319 {
+  position: absolute;
+  top: 337px;
+  left: 639px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 649px;
+  height: 116px;
+}
+.cancelling-div1,
+.connectivity-div5 {
+  position: absolute;
+  top: 415px;
+  left: 924px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  display: inline-block;
+}
+.connectivity-div5 {
+  left: 791px;
+}
+.deafness-1-icon3,
+.microphone-1-icon3 {
+  position: absolute;
+  top: 357px;
+  left: 1077px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.deafness-1-icon3 {
+  top: 359px;
+  left: 951px;
+  width: 22px;
+  height: 22px;
+}
+.battery-status-full-1-icon3,
+.bluetooth-1-icon3 {
+  position: absolute;
+  top: 358px;
+  left: 822px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.battery-status-full-1-icon3 {
+  top: 360px;
+  left: 700px;
+  width: 24px;
+  height: 24px;
+}
+.hours-div1 {
+  position: absolute;
+  top: 396px;
+  left: 679px;
+  display: inline-block;
+}
+.ebay-div1,
+.hours-div1,
+.playback-div1 {
+  font-size: var(--font-size-2xl);
+  text-align: center;
+}
+.playback-div1 {
+  position: absolute;
+  top: 415px;
+  left: 679px;
+  display: inline-block;
+}
+.ebay-div1 {
+  top: 1052px;
+  left: 715px;
+}
+.delivered-div1,
+.ebay-div1,
+.rating-div3 {
+  position: absolute;
+  display: inline-block;
+}
+.delivered-div1 {
+  top: 1071px;
+  left: 699px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+}
+.rating-div3 {
+  top: 481px;
+  left: 764px;
+  font-size: var(--font-size-xs);
+}
+.no-cost-emi3 {
+  font-weight: 500;
+}
+.bank-offers-get-75-up-to-r3,
+.no-cost-emi-avail-no-cost-em3,
+.on-yes-bank-credit-card-emi-tr1 {
+  position: absolute;
+  top: 895px;
+  left: 639px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.bank-offers-get-75-up-to-r3,
+.on-yes-bank-credit-card-emi-tr1 {
+  top: 922px;
+}
+.on-yes-bank-credit-card-emi-tr1 {
+  top: 939px;
+  left: 723px;
+}
+.details-div2,
+.details-div3 {
+  text-decoration: underline;
+  color: var(--color-indigo-100);
+}
+.details-div2 {
+  position: absolute;
+  top: 895px;
+  left: 1110px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.details-div3 {
+  top: 939px;
+  left: 1007px;
+}
+.black-div3,
+.details-div3,
+.enter-a-pin-code3,
+.see-more-div3 {
+  position: absolute;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.see-more-div3 {
+  top: 1732px;
+  left: 639px;
+  font-weight: 500;
+  color: var(--color-indigo-100);
+}
+.black-div3,
+.enter-a-pin-code3 {
+  top: 625px;
+  left: 662px;
+}
+.enter-a-pin-code3 {
+  top: 1184px;
+  left: 653px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-3200);
+}
+.add-to-cart6,
+.buy-now-div6 {
+  position: absolute;
+  top: 780px;
+  display: inline-block;
+}
+.add-to-cart6 {
+  left: 742px;
+  cursor: pointer;
+}
+.buy-now-div6 {
+  left: 1079px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.grey-div3,
+.new-div3,
+.white-div3 {
+  position: absolute;
+  top: 625px;
+  left: 741px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.new-div3,
+.white-div3 {
+  left: 814px;
+}
+.new-div3 {
+  top: 707px;
+  left: 639px;
+  font-size: var(--font-size-base);
+}
+.answered-questions-div3,
+.reviews-div3 {
+  position: absolute;
+  top: 481px;
+  left: 867px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.answered-questions-div3 {
+  left: 971px;
+}
+.bluetooth-div1,
+.noise-div1,
+.pay-on-div1,
+.warranty-div1,
+.year-div1 {
+  position: absolute;
+  top: 396px;
+  left: 801px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  display: inline-block;
+}
+.noise-div1,
+.pay-on-div1,
+.warranty-div1,
+.year-div1 {
+  top: 1052px;
+  left: 857px;
+}
+.noise-div1,
+.pay-on-div1,
+.warranty-div1 {
+  top: 1071px;
+  left: 847px;
+}
+.noise-div1,
+.pay-on-div1 {
+  top: 396px;
+  left: 940px;
+}
+.pay-on-div1 {
+  top: 1052px;
+  left: 1002px;
+}
+.assistance-div2,
+.assistance-div3,
+.days-div1,
+.delivery-div4,
+.replacement-div1,
+.touch-div1,
+.voice-div1 {
+  position: absolute;
+  top: 1071px;
+  left: 998px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  display: inline-block;
+}
+.assistance-div2,
+.assistance-div3,
+.days-div1,
+.replacement-div1,
+.touch-div1,
+.voice-div1 {
+  top: 396px;
+  left: 1064px;
+}
+.assistance-div2,
+.assistance-div3,
+.days-div1,
+.replacement-div1,
+.touch-div1 {
+  top: 415px;
+  left: 1045px;
+}
+.assistance-div3,
+.days-div1,
+.replacement-div1,
+.touch-div1 {
+  top: 1052px;
+  left: 1156px;
+}
+.assistance-div3,
+.replacement-div1,
+.touch-div1 {
+  top: 1071px;
+  left: 1133px;
+}
+.assistance-div3,
+.touch-div1 {
+  top: 396px;
+  left: 1194px;
+}
+.assistance-div3 {
+  top: 415px;
+  left: 1177px;
+}
+.home-electronics-audio-b1,
+.sony-wh-ch710n-noise-cancellin7,
+.sony-wh-ch710n-noise-cancellin8 {
+  position: absolute;
+  top: 219px;
+  left: 117px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.sony-wh-ch710n-noise-cancellin7,
+.sony-wh-ch710n-noise-cancellin8 {
+  left: 513px;
+  font-weight: 500;
+}
+.sony-wh-ch710n-noise-cancellin8 {
+  top: 281px;
+  left: 638px;
+  font-size: var(--font-size-14xl);
+}
+.rectangle-div320 {
+  position: absolute;
+  top: 1175px;
+  left: 639px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-gray-2400);
+  box-sizing: border-box;
+  width: 159px;
+  height: 34px;
+}
+.div144 {
+  top: 528px;
+  left: 639px;
+  font-size: var(--font-size-14xl);
+  font-weight: 500;
+}
+.colour-div4,
+.div144,
+.div145,
+.off-div39 {
+  position: absolute;
+  display: inline-block;
+}
+.div145 {
+  top: 532px;
+  left: 737px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-4000);
+}
+.colour-div4,
+.off-div39 {
+  font-weight: 500;
+}
+.off-div39 {
+  top: 528px;
+  left: 833px;
+  font-size: var(--font-size-14xl);
+  color: var(--color-green);
+}
+.colour-div4 {
+  top: 588px;
+  left: 639px;
+}
+.condition-div4,
+.delivery-div5,
+.offers-div5,
+.product-description-div3 {
+  position: absolute;
+  top: 676px;
+  left: 639px;
+  font-weight: 500;
+  display: inline-block;
+}
+.delivery-div5,
+.offers-div5,
+.product-description-div3 {
+  top: 863px;
+}
+.delivery-div5,
+.product-description-div3 {
+  top: 1143px;
+}
+.product-description-div3 {
+  top: 1260px;
+  font-size: var(--font-size-6xl);
+}
+.specifications-div3 {
+  top: 1310px;
+  left: 640px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.description-div3,
+.specifications-div3,
+.type-div5 {
+  position: absolute;
+  display: inline-block;
+}
+.description-div3 {
+  top: 1561px;
+  left: 638px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.type-div5 {
+  top: 1346px;
+  left: 639px;
+}
+.lorem-ipsum-dolor2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.lorem-ipsum-dolor3 {
+  margin: 0;
+}
+.lorem-ipsum-dolor-sit-amet-co3 {
+  position: absolute;
+  top: 1593px;
+  left: 639px;
+  display: inline-block;
+  width: 675px;
+}
+.connectivity-div6,
+.on-ear-div3 {
+  position: absolute;
+  top: 1346px;
+  left: 811px;
+  display: inline-block;
+}
+.connectivity-div6 {
+  top: 1373px;
+  left: 639px;
+}
+.bluetoothwireless-div3,
+.noise-cancelling-div5,
+.yes-div9 {
+  position: absolute;
+  top: 1373px;
+  left: 811px;
+  display: inline-block;
+}
+.noise-cancelling-div5,
+.yes-div9 {
+  top: 1400px;
+  left: 639px;
+}
+.yes-div9 {
+  left: 811px;
+}
+.battery-life-div3,
+.hours-playback-div5 {
+  position: absolute;
+  top: 1427px;
+  left: 639px;
+  display: inline-block;
+}
+.hours-playback-div5 {
+  left: 811px;
+}
+.minutes-quick-charging3,
+.quick-charging-div3 {
+  position: absolute;
+  top: 1454px;
+  left: 639px;
+  display: inline-block;
+}
+.minutes-quick-charging3 {
+  left: 811px;
+}
+.touch-assistance-div5,
+.voice-assistance-div5,
+.yes-div10,
+.yes-div11 {
+  position: absolute;
+  top: 1481px;
+  left: 639px;
+  display: inline-block;
+}
+.touch-assistance-div5,
+.yes-div10,
+.yes-div11 {
+  left: 811px;
+}
+.touch-assistance-div5,
+.yes-div11 {
+  top: 1508px;
+  left: 639px;
+}
+.yes-div11 {
+  left: 811px;
+}
+.line-div151 {
+  position: absolute;
+  top: 543.5px;
+  left: 731.5px;
+  border-top: 1px solid var(--color-gray-2000);
+  box-sizing: border-box;
+  width: 79px;
+  height: 1px;
+}
+.ellipse-icon60,
+.ellipse-icon61,
+.ellipse-icon62,
+.group-icon16 {
+  position: absolute;
+  top: 626px;
+  left: 639px;
+  width: 15px;
+  height: 15px;
+}
+.ellipse-icon61,
+.ellipse-icon62,
+.group-icon16 {
+  left: 718px;
+}
+.ellipse-icon62,
+.group-icon16 {
+  left: 791px;
+}
+.group-icon16 {
+  top: 1736.94px;
+  left: 705px;
+  width: 12px;
+  height: 7.06px;
+}
+.sony-wh-1000xm4-div6,
+.sony-wh-1000xm4-div7,
+.sony-wh-1000xm4-div8,
+.sony-wh-1000xm4-div9 {
+  position: absolute;
+  top: 2193px;
+  left: 143px;
+  font-size: var(--font-size-12xl);
+  display: inline-block;
+}
+.sony-wh-1000xm4-div7,
+.sony-wh-1000xm4-div8,
+.sony-wh-1000xm4-div9 {
+  left: 460px;
+}
+.sony-wh-1000xm4-div8,
+.sony-wh-1000xm4-div9 {
+  left: 774px;
+}
+.sony-wh-1000xm4-div9 {
+  left: 1089px;
+}
+.rectangle-div321 {
+  position: absolute;
+  top: 2277px;
+  left: 606px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 231px;
+  height: 53px;
+}
+.show-more-div8 {
+  position: absolute;
+  top: 2291px;
+  left: 666px;
+  font-size: var(--font-size-9xl);
+  text-align: center;
+  display: inline-block;
+}
+.similar-products-div3 {
+  position: absolute;
+  top: 1833px;
+  left: 116px;
+  font-size: var(--font-size-18xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.line-div152 {
+  position: absolute;
+  top: 198.5px;
+  left: 117.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.collectibles-arts11,
+.electronics-div3,
+.fashion-div2,
+.sports-div3 {
+  position: absolute;
+  top: 142px;
+  left: 489px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.electronics-div3,
+.fashion-div2,
+.sports-div3 {
+  left: 192px;
+}
+.fashion-div2,
+.sports-div3 {
+  left: 310px;
+}
+.sports-div3 {
+  left: 404px;
+}
+.home-garden11,
+.musical-instruments-gears3,
+.other-categories-div3,
+.toys-hobbies11 {
+  position: absolute;
+  top: 142px;
+  left: 660px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.musical-instruments-gears3,
+.other-categories-div3,
+.toys-hobbies11 {
+  left: 812px;
+}
+.other-categories-div3,
+.toys-hobbies11 {
+  left: 1058px;
+}
+.other-categories-div3 {
+  left: 1202px;
+}
+.line-div153,
+.line-div154 {
+  left: 117.25px;
+  border-top: 1.5px solid var(--color-black);
+  width: 25.5px;
+  height: 1.5px;
+}
+.line-div153 {
+  position: absolute;
+  top: 142.25px;
+  box-sizing: border-box;
+}
+.line-div154 {
+  top: 149.25px;
+}
+.line-div154,
+.line-div155,
+.rectangle-div322 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div155 {
+  top: 156.25px;
+  left: 117.25px;
+  border-top: 1.5px solid var(--color-black);
+  width: 25.5px;
+  height: 1.5px;
+}
+.rectangle-div322 {
+  top: 24px;
+  left: 260px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-gray-1500);
+  width: 631px;
+  height: 49px;
+}
+.mask-group-icon61 {
+  position: absolute;
+  top: 39px;
+  left: 848px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.line-div156 {
+  position: absolute;
+  top: 100.5px;
+  left: 117.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.help-contact23,
+.sell-div10 {
+  position: absolute;
+  top: 41px;
+  left: 997px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.sell-div10 {
+  left: 933px;
+}
+.love-1-icon2,
+.shopping-cart-2-icon4,
+.user-1-icon4 {
+  position: absolute;
+  top: 36px;
+  left: 1234px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.love-1-icon2,
+.shopping-cart-2-icon4 {
+  left: 1189px;
+}
+.love-1-icon2 {
+  top: 35px;
+  left: 1142px;
+  width: 26px;
+  height: 26px;
+}
+.india-1-icon4,
+.line-icon51 {
+  position: absolute;
+  top: 46.24px;
+  left: 1275.11px;
+  width: 5.77px;
+  height: 5px;
+}
+.india-1-icon4 {
+  top: 30px;
+  left: 1290px;
+  width: 32px;
+  height: 35px;
+  object-fit: cover;
+}
+.search-for-products-brands10 {
+  position: absolute;
+  top: 39px;
+  left: 286px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-4300);
+  display: inline-block;
+  width: 356px;
+  height: 19px;
+}
+.ebay-1-icon9 {
+  position: absolute;
+  top: 0;
+  left: 118px;
+  width: 109px;
+  height: 109px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-div323 {
+  position: absolute;
+  top: 2419px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 103px;
+}
+.copyright-1995-2022-ebay-inc23 {
+  position: absolute;
+  top: 2463px;
+  left: 253px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  text-align: center;
+  display: inline-block;
+  width: 937px;
+}
+.rectangle-div324 {
+  position: absolute;
+  top: 363px;
+  left: 1093px;
+  background-color: var(--color-gray-700);
+  width: 13px;
+  height: 14px;
+}
+.mask-group-icon62,
+.star-25-icon4,
+.star-26-icon4,
+.star-27-icon4,
+.star-28-icon4 {
+  position: absolute;
+  top: 481px;
+  left: 639px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.mask-group-icon62,
+.star-26-icon4,
+.star-27-icon4,
+.star-28-icon4 {
+  left: 660px;
+}
+.mask-group-icon62,
+.star-27-icon4,
+.star-28-icon4 {
+  left: 681px;
+}
+.mask-group-icon62,
+.star-28-icon4 {
+  left: 702px;
+}
+.mask-group-icon62 {
+  left: 723px;
+}
+.replacement-1-icon3,
+.shopping-cart-3-icon3 {
+  position: absolute;
+  top: 1010px;
+  left: 1164px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.shopping-cart-3-icon3 {
+  top: 777px;
+  left: 703px;
+  width: 25px;
+  height: 25px;
+}
+.mask-group-icon63,
+.touch-screen-3-icon3 {
+  position: absolute;
+  top: 776px;
+  left: 1038px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.touch-screen-3-icon3 {
+  top: 357px;
+  left: 1205px;
+  width: 24px;
+  height: 24px;
+}
+.rectangle-div325,
+.rectangle-div326,
+.rectangle-div327,
+.rectangle-div328 {
+  position: absolute;
+  top: 1914px;
+  left: 118px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 259px;
+  height: 259px;
+}
+.rectangle-div326,
+.rectangle-div327,
+.rectangle-div328 {
+  left: 434px;
+}
+.rectangle-div327,
+.rectangle-div328 {
+  left: 750px;
+}
+.rectangle-div328 {
+  left: 1066px;
+}
+.sony-wh-1000xm4-headphones-and-icon6 {
+  position: absolute;
+  top: 1919px;
+  left: 123px;
+  border-radius: var(--br-3xl);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.sony-wh-1000xm4-headphones-and-icon7,
+.sony-wh-1000xm4-headphones-and-icon8,
+.sony-wh-1000xm4-headphones-and-icon9 {
+  position: absolute;
+  top: 1919px;
+  left: 439px;
+  border-radius: var(--br-3xl);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.sony-wh-1000xm4-headphones-and-icon8,
+.sony-wh-1000xm4-headphones-and-icon9 {
+  left: 755px;
+}
+.sony-wh-1000xm4-headphones-and-icon9 {
+  left: 1071px;
+}
+.rectangle-div329,
+.rectangle-div330,
+.rectangle-div331,
+.rectangle-div332,
+.rectangle-div333 {
+  position: absolute;
+  top: 743px;
+  left: 118px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1300);
+  box-sizing: border-box;
+  width: 96px;
+  height: 96px;
+}
+.rectangle-div330,
+.rectangle-div331,
+.rectangle-div332,
+.rectangle-div333 {
+  left: 243px;
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-gray-1200);
+}
+.rectangle-div331,
+.rectangle-div332,
+.rectangle-div333 {
+  left: 368px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1300);
+}
+.rectangle-div332,
+.rectangle-div333 {
+  left: 494px;
+}
+.rectangle-div333 {
+  top: 278px;
+  left: 135px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-gray-1200);
+  width: 439px;
+  height: 439px;
+}
+.ezgif-11-icon6,
+.low-px7-front-space-grey-1-icon3 {
+  position: absolute;
+  top: 310.55px;
+  left: 147.09px;
+  width: 411.1px;
+  height: 372.96px;
+  object-fit: cover;
+}
+.low-px7-front-space-grey-1-icon3 {
+  top: 750px;
+  left: 124px;
+  width: 83px;
+  height: 82px;
+}
+.ezgif-10-icon4,
+.ezgif-12-icon4,
+.ezgif-9-icon4 {
+  position: absolute;
+  top: 753px;
+  left: 251px;
+  width: 80px;
+  height: 76px;
+  object-fit: cover;
+}
+.ezgif-12-icon4,
+.ezgif-9-icon4 {
+  top: 760px;
+  left: 368px;
+  width: 96px;
+  height: 62px;
+}
+.ezgif-12-icon4 {
+  top: 755px;
+  left: 494px;
+  height: 71px;
+}
+.div143 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2522px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

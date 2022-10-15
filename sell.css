@@ -1,0 +1,580 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div272 {
+  position: absolute;
+  top: 1581px;
+  left: 456px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-indigo-300);
+  width: 134px;
+  height: 33px;
+}
+.create-your-listing {
+  top: 141px;
+  left: 116px;
+}
+.create-your-listing,
+.listing-details-div,
+.listing-details-div1 {
+  position: absolute;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+}
+.listing-details-div {
+  top: 224px;
+  left: 433px;
+  font-size: var(--font-size-xl);
+}
+.listing-details-div1 {
+  top: 289px;
+  left: 116px;
+  font-size: 27px;
+}
+.selling-details-div {
+  position: absolute;
+  top: 224px;
+  left: 647px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-2900);
+  display: inline-block;
+}
+.characters-left-div,
+.characters-left-div1 {
+  position: absolute;
+  top: 441px;
+  left: 1013px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  display: inline-block;
+}
+.characters-left-div1 {
+  top: 582px;
+}
+.will-cost-110-if-added {
+  position: absolute;
+  top: 554px;
+  left: 118px;
+  display: inline-block;
+}
+.buyers-need-these-item-specifi,
+.fees-may-apply,
+.will-cost-110-if-added {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+}
+.fees-may-apply {
+  position: absolute;
+  top: 841px;
+  left: 118px;
+  display: inline-block;
+}
+.buyers-need-these-item-specifi {
+  top: 1944px;
+  left: 433px;
+}
+.buyers-need-these-item-specifi,
+.shipping-details-div,
+.title-div {
+  position: absolute;
+  display: inline-block;
+}
+.shipping-details-div {
+  top: 224px;
+  left: 864px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-2900);
+}
+.title-div {
+  top: 388px;
+  left: 127px;
+}
+.div114,
+.div115 {
+  font-size: var(--font-size-7xl);
+  color: var(--color-red-100);
+}
+.div114 {
+  position: absolute;
+  top: 389px;
+  left: 116px;
+  display: inline-block;
+}
+.div115 {
+  top: 673px;
+}
+.div115,
+.div116,
+.subtitle-div {
+  position: absolute;
+  left: 118px;
+  display: inline-block;
+}
+.div116 {
+  top: 1226px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-red-100);
+}
+.subtitle-div {
+  top: 518px;
+}
+.condition-div2,
+.secondary-category-div,
+.upc-div {
+  position: absolute;
+  top: 805px;
+  left: 117px;
+  display: inline-block;
+}
+.condition-div2,
+.upc-div {
+  top: 959px;
+  left: 116px;
+}
+.condition-div2 {
+  top: 1092px;
+}
+.cancel-div,
+.item-specifics-div,
+.save-as-draft {
+  position: absolute;
+  top: 1900px;
+  left: 141px;
+  display: inline-block;
+}
+.cancel-div,
+.save-as-draft {
+  top: 2314px;
+  left: 171px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-indigo-100);
+}
+.cancel-div {
+  top: 2315px;
+  left: 409px;
+  font-size: var(--font-size-12xl);
+  color: var(--color-red-100);
+  cursor: pointer;
+}
+.category-div,
+.photos-div {
+  position: absolute;
+  top: 1225px;
+  left: 127px;
+  display: inline-block;
+}
+.category-div {
+  top: 672px;
+}
+.add-upto-10-photos,
+.art-art-drawings,
+.required-div,
+.type-div3 {
+  position: absolute;
+  top: 674px;
+  left: 433px;
+  font-size: var(--font-size-12xl);
+  display: inline-block;
+}
+.add-upto-10-photos,
+.required-div,
+.type-div3 {
+  top: 1227px;
+}
+.required-div,
+.type-div3 {
+  top: 1997px;
+}
+.required-div {
+  top: 1902px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.add-photos-div,
+.clear-all-div {
+  position: absolute;
+  top: 1375px;
+  left: 479px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-indigo-100);
+  display: inline-block;
+}
+.clear-all-div {
+  top: 1775px;
+  left: 500px;
+  font-size: var(--font-size-sm);
+  color: var(--color-red-100);
+}
+.we-dont-allow {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.extra-borders-text {
+  margin: 0;
+}
+.add-upto-10-photos-we-dont-al {
+  position: absolute;
+  top: 1431px;
+  left: 458px;
+  font-size: var(--font-size-5xs);
+  text-align: center;
+  display: inline-block;
+}
+.add-from-device {
+  position: absolute;
+  top: 1589px;
+  left: 473px;
+  font-size: var(--font-size-2xs);
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+}
+.add-a-second-category,
+.change-category-div,
+.customize-listing-div,
+.import-from-web {
+  position: absolute;
+  top: 1631px;
+  left: 470px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-indigo-100);
+  display: inline-block;
+}
+.add-a-second-category,
+.change-category-div,
+.customize-listing-div {
+  top: 678px;
+  left: 656px;
+  font-size: var(--font-size-7xl);
+}
+.add-a-second-category,
+.customize-listing-div {
+  top: 810px;
+  left: 433px;
+}
+.customize-listing-div {
+  top: 140px;
+  left: 1180px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-indigo-300);
+}
+.div117,
+.div118 {
+  position: absolute;
+  top: 219px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.div117 {
+  left: 580px;
+  width: 60px;
+}
+.div118 {
+  left: 797px;
+}
+.rectangle-div273,
+.rectangle-div274,
+.rectangle-div275 {
+  position: absolute;
+  top: 376px;
+  left: 433px;
+  border-radius: var(--br-4xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 708px;
+  height: 56px;
+}
+.rectangle-div274,
+.rectangle-div275 {
+  top: 517px;
+}
+.rectangle-div275 {
+  top: 947px;
+  width: 295px;
+}
+.rectangle-div276,
+.rectangle-div277,
+.rectangle-div278,
+.rectangle-div279,
+.rectangle-div280 {
+  position: absolute;
+  top: 1271px;
+  left: 433px;
+  border-radius: var(--br-4xs);
+  border: 1px solid var(--color-gray-1700);
+  box-sizing: border-box;
+  width: 590px;
+  height: 538px;
+}
+.rectangle-div277,
+.rectangle-div278,
+.rectangle-div279,
+.rectangle-div280 {
+  top: 1080px;
+  border: 1px solid var(--color-black);
+  width: 185px;
+  height: 56px;
+}
+.rectangle-div278,
+.rectangle-div279,
+.rectangle-div280 {
+  top: 2034px;
+  width: 212px;
+}
+.rectangle-div279,
+.rectangle-div280 {
+  top: 2301px;
+  left: 142px;
+  border: 1px solid var(--color-indigo-100);
+}
+.rectangle-div280 {
+  top: 1366px;
+  left: 456px;
+  width: 134px;
+  height: 37px;
+}
+.line-icon34,
+.line-icon35,
+.line-icon36 {
+  position: absolute;
+  top: 1103.74px;
+  left: 579.78px;
+  width: 14.43px;
+  height: 12.5px;
+}
+.line-icon35,
+.line-icon36 {
+  top: 969.74px;
+  left: 685.78px;
+}
+.line-icon36 {
+  top: 2056.74px;
+  left: 605.78px;
+}
+.line-div124,
+.line-div125 {
+  position: absolute;
+  top: 1271.5px;
+  left: 607.5px;
+  border-right: 1px solid var(--color-gray-1700);
+  box-sizing: border-box;
+  width: 1px;
+  height: 538px;
+}
+.line-div125 {
+  top: 1270.5px;
+  left: 811.5px;
+}
+.line-div126,
+.line-div127,
+.line-div128,
+.line-div129 {
+  position: absolute;
+  top: 1374.5px;
+  left: 607.5px;
+  border-top: 1px solid var(--color-gray-1700);
+  box-sizing: border-box;
+  width: 416px;
+  height: 1px;
+}
+.line-div127,
+.line-div128,
+.line-div129 {
+  top: 1482.5px;
+}
+.line-div128,
+.line-div129 {
+  top: 1595.5px;
+}
+.line-div129 {
+  top: 1703.5px;
+}
+.line-icon37,
+.line-icon38,
+.line-icon39,
+.line-icon40 {
+  position: absolute;
+  top: 2191px;
+  left: 542px;
+  width: 13.41px;
+  height: 13.41px;
+}
+.line-icon38,
+.line-icon39,
+.line-icon40 {
+  top: 2200.59px;
+  left: 910.59px;
+}
+.line-icon39,
+.line-icon40 {
+  top: 2201.59px;
+  left: 542px;
+}
+.line-icon40 {
+  top: 2190px;
+  left: 910.59px;
+}
+.ellipse-icon53,
+.ellipse-icon54,
+.ellipse-icon55,
+.india-1-icon {
+  position: absolute;
+  top: 2193px;
+  left: 641px;
+  width: 15px;
+  height: 15px;
+}
+.ellipse-icon54,
+.ellipse-icon55,
+.india-1-icon {
+  left: 725px;
+}
+.ellipse-icon55,
+.india-1-icon {
+  left: 808px;
+}
+.india-1-icon {
+  top: 30px;
+  left: 1290px;
+  width: 32px;
+  height: 35px;
+  object-fit: cover;
+}
+.help-contact19,
+.send-feedback-div {
+  position: absolute;
+  top: 41px;
+  left: 1081px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+}
+.send-feedback-div {
+  left: 933px;
+}
+.user-1-icon {
+  position: absolute;
+  top: 36px;
+  left: 1234px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.line-div130,
+.line-icon41 {
+  position: absolute;
+  top: 46.24px;
+  left: 1275.11px;
+  width: 5.77px;
+  height: 5px;
+}
+.line-div130 {
+  top: 100.5px;
+  left: 117.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.ebay-1-icon5 {
+  position: absolute;
+  top: 0;
+  left: 118px;
+  width: 109px;
+  height: 109px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-div281 {
+  position: absolute;
+  top: 2426px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 103px;
+}
+.copyright-1995-2022-ebay-inc19 {
+  position: absolute;
+  top: 2470px;
+  left: 186px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  text-align: center;
+  display: inline-block;
+  width: 1052px;
+}
+.mask-group-icon49,
+.mask-group-icon50 {
+  position: absolute;
+  top: 1403px;
+  left: 679px;
+  width: 64px;
+  height: 56.08px;
+  object-fit: cover;
+}
+.mask-group-icon50 {
+  left: 884px;
+}
+.mask-group-icon51,
+.mask-group-icon52,
+.mask-group-icon53,
+.mask-group-icon54 {
+  position: absolute;
+  top: 1511px;
+  left: 679px;
+  width: 64px;
+  height: 56.08px;
+  object-fit: cover;
+}
+.mask-group-icon52,
+.mask-group-icon53,
+.mask-group-icon54 {
+  left: 884px;
+}
+.mask-group-icon53,
+.mask-group-icon54 {
+  top: 1619px;
+  left: 679px;
+}
+.mask-group-icon54 {
+  left: 884px;
+}
+.image-1-icon5,
+.image-2-icon1,
+.mask-group-icon55,
+.mask-group-icon56 {
+  position: absolute;
+  top: 1727px;
+  left: 679px;
+  width: 64px;
+  height: 56.08px;
+  object-fit: cover;
+}
+.image-1-icon5,
+.image-2-icon1,
+.mask-group-icon56 {
+  left: 884px;
+}
+.image-1-icon5,
+.image-2-icon1 {
+  top: 1274px;
+  left: 655px;
+  width: 112px;
+  height: 98px;
+}
+.image-2-icon1 {
+  left: 860px;
+}
+.sell-div6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2529px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-gray-3900);
+  font-family: var(--font-roboto);
+}

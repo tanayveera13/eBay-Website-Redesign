@@ -1,0 +1,255 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div264 {
+  position: absolute;
+  top: 587px;
+  left: 517px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-indigo-200);
+  width: 406px;
+  height: 57px;
+  cursor: pointer;
+}
+.rectangle-div265 {
+  position: absolute;
+  top: 703px;
+  left: 784px;
+  background-color: var(--color-black);
+  width: 40px;
+  height: 39px;
+}
+.images-1-icon2 {
+  position: absolute;
+  top: 704px;
+  left: 793px;
+  border-radius: var(--br-lg);
+  width: 23px;
+  height: 36px;
+  object-fit: cover;
+}
+.rectangle-div266 {
+  position: absolute;
+  top: 703px;
+  left: 616px;
+  background-color: var(--color-gray-2300);
+  width: 41px;
+  height: 39px;
+}
+.facebook-emblem-1-icon1 {
+  position: absolute;
+  top: 708px;
+  left: 623px;
+  border-radius: var(--br-7xs);
+  width: 27px;
+  height: 29px;
+  object-fit: cover;
+}
+.rectangle-div267 {
+  position: absolute;
+  top: 932px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 92px;
+}
+.login-div6,
+.to-stay-connected2 {
+  position: absolute;
+  font-size: var(--font-size-19xl);
+  display: inline-block;
+}
+.to-stay-connected2 {
+  top: 240px;
+  left: 578px;
+  color: var(--color-indigo-100);
+}
+.login-div6 {
+  top: 198px;
+  left: 676px;
+}
+.help-contact18,
+.home-div4,
+.services-div8 {
+  position: absolute;
+  top: 41px;
+  left: 970px;
+  text-align: left;
+  display: inline-block;
+}
+.home-div4,
+.services-div8 {
+  left: 838px;
+}
+.home-div4 {
+  left: 723px;
+  cursor: pointer;
+}
+.email-address-or-phone-number1 {
+  top: 369px;
+  left: 536px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-3100);
+  text-align: left;
+}
+.email-address-or-phone-number1,
+.login-div7,
+.password-div1 {
+  position: absolute;
+  display: inline-block;
+  width: 288px;
+}
+.password-div1 {
+  top: 461px;
+  left: 536px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-3100);
+  text-align: left;
+}
+.login-div7 {
+  top: 604px;
+  left: 579px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.dont-have-an-account2,
+.or-div2 {
+  position: absolute;
+  color: var(--color-gray-2900);
+  display: inline-block;
+}
+.or-div2 {
+  top: 664px;
+  left: 576px;
+  font-size: var(--font-size-base);
+  width: 288px;
+}
+.dont-have-an-account2 {
+  top: 802px;
+  left: 600px;
+}
+.forgot-password-div1,
+.sign-up-div6 {
+  position: absolute;
+  text-decoration: underline;
+  display: inline-block;
+}
+.sign-up-div6 {
+  top: 802px;
+  left: 781px;
+  font-weight: 500;
+  color: var(--color-red-100);
+  cursor: pointer;
+}
+.forgot-password-div1 {
+  top: 512px;
+  left: 635px;
+  font-size: var(--font-size-sm);
+  text-align: right;
+  width: 288px;
+}
+.rectangle-div268 {
+  position: absolute;
+  top: 28px;
+  left: 1157px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-red-100);
+  box-sizing: border-box;
+  width: 165px;
+  height: 45px;
+  cursor: pointer;
+}
+.rectangle-div269,
+.rectangle-div270 {
+  position: absolute;
+  top: 351px;
+  left: 517px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 406px;
+  height: 57px;
+}
+.rectangle-div270 {
+  top: 443px;
+}
+.sign-up-div7 {
+  position: absolute;
+  top: 40px;
+  left: 1163px;
+  font-weight: 500;
+  color: var(--color-red-200);
+  display: inline-block;
+  width: 153px;
+}
+.line-div122,
+.line-div123 {
+  position: absolute;
+  top: 941px;
+  left: 0;
+  width: 1440px;
+  height: 0;
+}
+.line-div123 {
+  top: 100.5px;
+  left: 117.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.copyright-1995-2022-ebay-inc18 {
+  position: absolute;
+  top: 970px;
+  left: 258px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  display: inline-block;
+  width: 930px;
+}
+.view-1-icon3 {
+  position: absolute;
+  top: 462px;
+  left: 883px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.rectangle-div271 {
+  position: absolute;
+  top: 703px;
+  left: 700px;
+  background-color: var(--color-white);
+  width: 41px;
+  height: 39px;
+}
+.ebay-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 118px;
+  width: 109px;
+  height: 109px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icons8-google-11 {
+  position: absolute;
+  top: 703px;
+  left: 701px;
+  width: 39px;
+  height: 39px;
+  overflow: hidden;
+}
+.div113 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

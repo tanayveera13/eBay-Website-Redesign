@@ -1,0 +1,567 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.cart-div1 {
+  position: absolute;
+  top: 152px;
+  left: 593px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+}
+.address-div1 {
+  top: 152px;
+  left: 716px;
+  font-weight: 600;
+}
+.address-div1,
+.div30,
+.div31,
+.payment-div1 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.payment-div1 {
+  top: 152px;
+  left: 872px;
+  font-weight: 600;
+}
+.div30,
+.div31 {
+  top: 147px;
+}
+.div30 {
+  left: 649px;
+  font-weight: 500;
+}
+.div31 {
+  left: 804px;
+  color: var(--color-gray-3900);
+}
+.line-div38 {
+  position: absolute;
+  top: 104.5px;
+  left: 167.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.help-contact4 {
+  top: 45px;
+  left: 1047px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.help-contact4,
+.love-1-button3,
+.sell-button4,
+.user-1-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.sell-button4 {
+  top: 45px;
+  left: 983px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.love-1-button3,
+.user-1-button3 {
+  top: 40px;
+  left: 1284px;
+  width: 24px;
+  height: 24px;
+  background-image: url(./public/user1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.love-1-button3 {
+  top: 39px;
+  left: 1192px;
+  width: 26px;
+  height: 26px;
+  background-image: url(./public/love1@3x.png);
+}
+.line-icon13 {
+  position: absolute;
+  top: 50.24px;
+  left: 1325.11px;
+  width: 5.77px;
+  height: 5px;
+}
+.ebay-1-button4,
+.india-1-button3,
+.shopping-cart-2-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 34px;
+  left: 1340px;
+  width: 32px;
+  height: 35px;
+  background-image: url(./public/india1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.ebay-1-button4,
+.shopping-cart-2-button3 {
+  top: -2px;
+  left: 168px;
+  width: 109px;
+  height: 109px;
+  background-image: url(./public/ebay1@3x.png);
+}
+.shopping-cart-2-button3 {
+  top: 40px;
+  left: 1238px;
+  width: 24px;
+  height: 24px;
+  background-image: url(./public/shoppingcart2@3x.png);
+}
+.line-div40 {
+  position: absolute;
+  top: 269.5px;
+  left: 166.5px;
+  border-top: 1px solid var(--color-beige-200);
+  box-sizing: border-box;
+  width: 1206px;
+  height: 1px;
+}
+.choose-payment-method1 {
+  margin: 0;
+  position: absolute;
+  top: 219px;
+  left: 168px;
+  font-size: var(--font-size-15xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div47 {
+  position: absolute;
+  top: 921px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1539px;
+  height: 103px;
+}
+.copyright-1995-2022-ebay-inc4 {
+  margin: 0;
+  position: absolute;
+  top: 965px;
+  left: 310px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  text-align: center;
+  display: inline-block;
+}
+.line-div42,
+.line-div43 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div42 {
+  top: 301.5px;
+  left: 909.5px;
+  border-right: 1px solid var(--color-gray-1600);
+  width: 1px;
+  height: 504px;
+}
+.line-div43 {
+  top: 462.5px;
+  left: 948.5px;
+  border-top: 1px solid var(--color-gray-1600);
+  width: 372px;
+  height: 1px;
+}
+.discount-div2,
+.price-details-1-item1,
+.total-mrp-div1 {
+  position: absolute;
+  top: 311px;
+  left: 948px;
+  display: inline-block;
+}
+.discount-div2,
+.total-mrp-div1 {
+  top: 354px;
+  font-weight: 300;
+}
+.discount-div2 {
+  top: 388px;
+}
+.delivery-charge-div1,
+.div32,
+.div33,
+.div34,
+.div35,
+.total-amount-div1 {
+  position: absolute;
+  top: 422px;
+  left: 949px;
+  font-weight: 300;
+  display: inline-block;
+}
+.div32,
+.div33,
+.div34,
+.div35,
+.total-amount-div1 {
+  top: 483px;
+  font-weight: 500;
+}
+.div32,
+.div33,
+.div34,
+.div35 {
+  top: 358px;
+  left: 1258px;
+  font-weight: 300;
+}
+.div33,
+.div34,
+.div35 {
+  top: 388px;
+  left: 1267px;
+}
+.div34,
+.div35 {
+  top: 422px;
+  left: 1282px;
+}
+.div35 {
+  top: 483px;
+  left: 1268px;
+  font-weight: 500;
+}
+.rectangle-button33,
+.rectangle-div48 {
+  position: absolute;
+  left: 168px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1800);
+  box-sizing: border-box;
+  height: 60px;
+}
+.rectangle-button33 {
+  cursor: pointer;
+  padding: 0;
+  top: 311px;
+  width: 273px;
+}
+.rectangle-div48 {
+  top: 682px;
+  width: 689px;
+}
+.have-any-gift-card1,
+.saved-payment-options1 {
+  position: absolute;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+}
+.saved-payment-options1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 331px;
+  left: 212px;
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+}
+.have-any-gift-card1 {
+  top: 702px;
+  left: 224px;
+}
+.apply-gift-card1 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 703px;
+  left: 701px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-roboto);
+  color: var(--color-indigo-100);
+  text-align: left;
+  display: inline-block;
+}
+.apply-gift-card1,
+.ellipse-input,
+.star-40-button {
+  cursor: pointer;
+  position: absolute;
+}
+.ellipse-input {
+  top: 336px;
+  left: 186px;
+  background-color: var(--color-white);
+  border: 1px solid #a6a6a6;
+  box-sizing: border-box;
+  width: 11px;
+  height: 11px;
+}
+.star-40-button {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 331px;
+  left: 402px;
+  width: 20px;
+  height: 20px;
+  background-image: url(./public/star-40@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle-div49 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 1px 0 6px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1800);
+  box-sizing: border-box;
+  width: 245px;
+  height: 60px;
+}
+.cash-on-delivery1 {
+  position: absolute;
+  top: 20px;
+  left: 44px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.ellipse-icon13,
+.ellipse-icon14 {
+  position: absolute;
+  top: 22px;
+  left: 15px;
+  width: 17px;
+  height: 17px;
+}
+.ellipse-icon14 {
+  top: 25px;
+  left: 18px;
+  width: 11px;
+  height: 11px;
+}
+.cash-on-delivery-1-icon1 {
+  position: absolute;
+  top: 17px;
+  left: 182px;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+.group-button43,
+.rectangle-div50 {
+  position: absolute;
+  width: 245px;
+  height: 60px;
+}
+.group-button43 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 401px;
+  left: 168px;
+}
+.rectangle-div50 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1800);
+  box-sizing: border-box;
+}
+.paytmwallets-div1 {
+  position: absolute;
+  top: 20px;
+  left: 44px;
+  font-size: var(--font-size-3xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.wallet-1-icon1 {
+  position: absolute;
+  top: 20px;
+  left: 168px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.group-button44 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 491px;
+  left: 168px;
+  width: 245px;
+  height: 60px;
+}
+.wallet-1-11 {
+  position: absolute;
+  top: 17px;
+  left: 163px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.group-button45 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 581px;
+  left: 168px;
+  width: 245px;
+  height: 60px;
+}
+.credit-card-1-icon1 {
+  position: absolute;
+  top: 19px;
+  left: 187px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.group-button46 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 401px;
+  left: 449px;
+  width: 245px;
+  height: 60px;
+}
+.rectangle-div53 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-1800);
+  box-sizing: border-box;
+  width: 352px;
+  height: 60px;
+}
+.operation-1-icon1 {
+  position: absolute;
+  top: 16px;
+  left: 301px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.group-button47 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 581px;
+  left: 449px;
+  width: 352px;
+  height: 60px;
+}
+.mobile-banking-1-icon1 {
+  position: absolute;
+  top: 18px;
+  left: 149px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.group-button48 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 491px;
+  left: 449px;
+  width: 245px;
+  height: 60px;
+}
+.gift-1-icon1 {
+  position: absolute;
+  top: 702px;
+  left: 189px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.rectangle-div55 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-indigo-100);
+  width: 372px;
+  height: 56px;
+}
+.checkout-div {
+  position: absolute;
+  top: 18px;
+  left: 108px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 155px;
+}
+.group-button49 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 530px;
+  left: 949px;
+  width: 372px;
+  height: 56px;
+}
+.frame-div4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

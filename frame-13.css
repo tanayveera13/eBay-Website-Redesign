@@ -1,0 +1,551 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-button34 {
+  cursor: pointer;
+  border: 1px solid #dadada;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 351px;
+  left: 168px;
+  border-radius: var(--br-3xs);
+  box-shadow: 1px 0 6px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 704px;
+  height: 284px;
+}
+.cart-div2 {
+  position: absolute;
+  top: 152px;
+  left: 593px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+}
+.address-div2 {
+  top: 152px;
+  left: 716px;
+  font-weight: 600;
+}
+.address-div2,
+.div36,
+.div37,
+.payment-div2 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.payment-div2 {
+  top: 152px;
+  left: 872px;
+  color: var(--color-gray-2600);
+}
+.div36,
+.div37 {
+  top: 147px;
+}
+.div36 {
+  left: 649px;
+  font-weight: 500;
+}
+.div37 {
+  left: 804px;
+  color: var(--color-gray-3900);
+}
+.line-div44 {
+  position: absolute;
+  top: 104.5px;
+  left: 167.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.help-contact5 {
+  top: 45px;
+  left: 1047px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.help-contact5,
+.love-1-button4,
+.sell-button5,
+.user-1-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.sell-button5 {
+  top: 45px;
+  left: 983px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.love-1-button4,
+.user-1-button4 {
+  top: 40px;
+  left: 1284px;
+  width: 24px;
+  height: 24px;
+  background-image: url(./public/user1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.love-1-button4 {
+  top: 39px;
+  left: 1192px;
+  width: 26px;
+  height: 26px;
+  background-image: url(./public/love1@3x.png);
+}
+.line-icon14 {
+  position: absolute;
+  top: 50.24px;
+  left: 1325.11px;
+  width: 5.77px;
+  height: 5px;
+}
+.ebay-1-button5,
+.india-1-button4,
+.shopping-cart-2-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 34px;
+  left: 1340px;
+  width: 32px;
+  height: 35px;
+  background-image: url(./public/india1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.ebay-1-button5,
+.shopping-cart-2-button4 {
+  top: -2px;
+  left: 168px;
+  width: 109px;
+  height: 109px;
+  background-image: url(./public/ebay1@3x.png);
+}
+.shopping-cart-2-button4 {
+  top: 40px;
+  left: 1238px;
+  width: 24px;
+  height: 24px;
+  background-image: url(./public/shoppingcart2@3x.png);
+}
+.line-div46 {
+  top: 269.5px;
+  left: 166.5px;
+  border-top: 1px solid var(--color-beige-200);
+  width: 1206px;
+  height: 1px;
+}
+.line-div46,
+.line-div47,
+.line-div48 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div47 {
+  top: 301.5px;
+  left: 909.5px;
+  border-right: 1px solid var(--color-gray-1600);
+  width: 1px;
+  height: 504px;
+}
+.line-div48 {
+  top: 618.5px;
+  left: 948.5px;
+  border-top: 1px solid var(--color-gray-1600);
+  width: 372px;
+  height: 1px;
+}
+.select-deliver-address {
+  margin: 0;
+  position: absolute;
+  top: 219px;
+  left: 168px;
+  font-size: var(--font-size-15xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.default-address-div,
+.delivery-estimates-div {
+  position: absolute;
+  top: 311px;
+  display: inline-block;
+}
+.default-address-div {
+  left: 168px;
+  color: var(--color-gray-2500);
+}
+.delivery-estimates-div {
+  left: 948px;
+}
+.discount-div3,
+.price-details-1-item2,
+.total-mrp-div2 {
+  position: absolute;
+  top: 467px;
+  left: 948px;
+  display: inline-block;
+}
+.discount-div3,
+.total-mrp-div2 {
+  top: 510px;
+  font-weight: 300;
+}
+.discount-div3 {
+  top: 544px;
+}
+.delivery-charge-div2,
+.div38,
+.div39,
+.div40,
+.div41,
+.total-amount-div2 {
+  position: absolute;
+  top: 578px;
+  left: 949px;
+  font-weight: 300;
+  display: inline-block;
+}
+.div38,
+.div39,
+.div40,
+.div41,
+.total-amount-div2 {
+  top: 639px;
+  font-weight: 500;
+}
+.div38,
+.div39,
+.div40,
+.div41 {
+  top: 514px;
+  left: 1258px;
+  font-weight: 300;
+}
+.div39,
+.div40,
+.div41 {
+  top: 544px;
+  left: 1267px;
+}
+.div40,
+.div41 {
+  top: 578px;
+  left: 1282px;
+}
+.div41 {
+  top: 639px;
+  left: 1268px;
+  font-weight: 500;
+}
+.estimated-delivery-by {
+  font-weight: 300;
+}
+.oct-2022-span {
+  font-weight: 500;
+}
+.estimated-delivery-by-18-oct-2,
+.tanay-veera-button {
+  position: absolute;
+  top: 387px;
+  left: 1050px;
+  color: var(--color-gray-2500);
+  display: inline-block;
+}
+.tanay-veera-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 381px;
+  left: 223px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+}
+.rectangle-div56 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px dashed var(--color-gray-1800);
+  box-sizing: border-box;
+  width: 704px;
+  height: 77px;
+}
+.add-new-address {
+  position: absolute;
+  top: 25px;
+  left: 32px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+  color: var(--color-indigo-100);
+  text-align: left;
+  display: inline-block;
+}
+.group-button50 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 651px;
+  left: 168px;
+  width: 704px;
+  height: 77px;
+}
+.mumbai-maharashtra-400080,
+.vasant-vihar-lbs-road-ghat {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.mumbai-maharashtra-400080 {
+  top: 25px;
+}
+.group-button51 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 428px;
+  left: 223px;
+  width: 450px;
+  height: 44px;
+}
+.mobile-9137898471 {
+  position: absolute;
+  top: 512px;
+  left: 223px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+}
+.rectangle-div57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-2700);
+  box-sizing: border-box;
+  width: 86px;
+  height: 36px;
+}
+.remove-div {
+  position: absolute;
+  top: 11px;
+  left: 17px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.group-button52 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 564px;
+  left: 223px;
+  width: 86px;
+  height: 36px;
+}
+.rectangle-div58 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-2700);
+  box-sizing: border-box;
+  width: 76px;
+  height: 36px;
+}
+.edit-div {
+  position: absolute;
+  top: 11px;
+  left: 24px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.group-button53 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 564px;
+  left: 325px;
+  width: 76px;
+  height: 36px;
+}
+.rectangle-div59 {
+  position: absolute;
+  top: 381px;
+  left: 340px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-orange);
+  box-sizing: border-box;
+  width: 45px;
+  height: 21px;
+}
+.home-div {
+  position: absolute;
+  top: 386px;
+  left: 350px;
+  font-size: 9px;
+  color: var(--color-orange);
+  display: inline-block;
+}
+.ellipse-icon20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.ellipse-icon21,
+.group-button54 {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 9px;
+  height: 9px;
+}
+.group-button54 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 383px;
+  left: 192px;
+  width: 15px;
+  height: 15px;
+}
+.rectangle-div60 {
+  position: absolute;
+  top: 921px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1539px;
+  height: 103px;
+}
+.copyright-1995-2022-ebay-inc5 {
+  margin: 0;
+  position: absolute;
+  top: 965px;
+  left: 310px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  text-align: center;
+  display: inline-block;
+}
+.rectangle-div61 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+  width: 77px;
+  height: 77px;
+}
+.ezgif-11-icon {
+  position: absolute;
+  top: 5px;
+  left: 2px;
+  border-radius: 22px;
+  width: 73px;
+  height: 67px;
+  object-fit: cover;
+}
+.group-button55 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 358px;
+  left: 947px;
+  width: 77px;
+  height: 77px;
+}
+.rectangle-div62 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-indigo-100);
+  width: 372px;
+  height: 56px;
+}
+.continue-div {
+  position: absolute;
+  top: 18px;
+  left: 108px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 155px;
+}
+.group-button56 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 690px;
+  left: 949px;
+  width: 372px;
+  height: 56px;
+}
+.frame-div5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

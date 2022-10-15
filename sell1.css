@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.india-1-icon1 {
+  position: absolute;
+  top: 30px;
+  left: 1290px;
+  width: 32px;
+  height: 35px;
+  object-fit: cover;
+}
+.help-contact20 {
+  position: absolute;
+  top: 41px;
+  left: 1081px;
+  display: inline-block;
+}
+.send-feedback-div1,
+.tell-us-what-you-are-selling {
+  position: absolute;
+  top: 41px;
+  left: 933px;
+  display: inline-block;
+}
+.tell-us-what-you-are-selling {
+  top: 219px;
+  left: 117px;
+  font-size: var(--font-size-18xl);
+  font-weight: 500;
+}
+.rectangle-div282,
+.rectangle-div283 {
+  position: absolute;
+  top: 311px;
+  border-radius: var(--br-xs);
+  height: 78px;
+}
+.rectangle-div282 {
+  left: 118px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 937px;
+}
+.rectangle-div283 {
+  left: 1086px;
+  background-color: var(--color-indigo-100);
+  width: 236px;
+  cursor: pointer;
+}
+.rectangle-icon1 {
+  position: absolute;
+  top: 420px;
+  left: 118px;
+  width: 256px;
+  height: 54px;
+}
+.enter-upc-isbn-epid-part-nu {
+  position: absolute;
+  top: 337px;
+  left: 142px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-3100);
+  display: inline-block;
+  width: 566px;
+  height: 19px;
+}
+.browse-categories-div,
+.get-started-div {
+  position: absolute;
+  top: 436px;
+  left: 143px;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+}
+.get-started-div {
+  top: 337px;
+  left: 1146px;
+  font-size: var(--font-size-10xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.line-icon42,
+.line-icon43,
+.user-1-icon1 {
+  position: absolute;
+  top: 443.49px;
+  left: 335px;
+  width: 9.41px;
+  height: 9.41px;
+}
+.line-icon43,
+.user-1-icon1 {
+  left: 341.59px;
+}
+.user-1-icon1 {
+  top: 36px;
+  left: 1234px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.line-div131,
+.line-icon44 {
+  position: absolute;
+  top: 46.24px;
+  left: 1275.11px;
+  width: 5.77px;
+  height: 5px;
+}
+.line-div131 {
+  top: 100.5px;
+  left: 117.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.ebay-1-icon6 {
+  position: absolute;
+  top: 0;
+  left: 118px;
+  width: 109px;
+  height: 109px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-div284 {
+  position: absolute;
+  top: 921px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 103px;
+}
+.copyright-1995-2022-ebay-inc20 {
+  position: absolute;
+  top: 965px;
+  left: 252px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  text-align: center;
+  display: inline-block;
+  width: 936px;
+}
+.sell-div7 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

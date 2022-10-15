@@ -1,0 +1,1539 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div {
+  position: absolute;
+  top: 2922px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1539px;
+  height: 524px;
+}
+.d04-09cr-div {
+  position: absolute;
+  top: 3046px;
+  left: 1152px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.download-1-icon,
+.visa-1-icon {
+  position: absolute;
+  top: 3388px;
+  left: 1227px;
+  width: 40px;
+  height: 26px;
+  object-fit: cover;
+}
+.visa-1-icon {
+  top: 3383px;
+  left: 1333px;
+  width: 39px;
+  height: 36px;
+}
+.download-1-1,
+.paypal-1-icon,
+.shakerx-baner-black-en-1-icon {
+  position: absolute;
+  top: 3388px;
+  left: 1281px;
+  width: 38px;
+  height: 26px;
+  object-fit: cover;
+}
+.download-1-1,
+.shakerx-baner-black-en-1-icon {
+  left: 1174px;
+  width: 39px;
+}
+.shakerx-baner-black-en-1-icon {
+  top: 1988px;
+  left: 169px;
+  width: 1203px;
+  height: 218px;
+}
+.want-to-sell-your-products-on {
+  margin: 0;
+  position: absolute;
+  top: 2025px;
+  left: 203px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+}
+.ezgif-1-icon,
+.rectangle-div1 {
+  position: absolute;
+  left: 168px;
+  width: 1206px;
+}
+.ezgif-1-icon {
+  top: 209px;
+  height: 503px;
+  object-fit: cover;
+}
+.rectangle-div1 {
+  top: 709px;
+  background-color: var(--color-gray-2800);
+  height: 39px;
+}
+.line-div {
+  position: absolute;
+  top: 2922px;
+  left: 50px;
+  width: 1440px;
+  height: 0;
+}
+.line-div1,
+.line-div2,
+.line-div3 {
+  position: absolute;
+  top: 104.5px;
+  left: 167.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.line-div2,
+.line-div3 {
+  top: 3114.5px;
+}
+.line-div3 {
+  top: 3362.5px;
+}
+.blockbuster-deals-p,
+.featured-products,
+.top-brand-offers {
+  margin: 0;
+  position: absolute;
+  top: 892px;
+  left: 165px;
+  font-size: var(--font-size-18xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.featured-products,
+.top-brand-offers {
+  top: 1519px;
+  left: 166px;
+}
+.top-brand-offers {
+  top: 2301px;
+  left: 167px;
+}
+.clinique-lotions-button,
+.nike-winflo-8,
+.sony-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1253px;
+  left: 227px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.clinique-lotions-button,
+.sony-button {
+  left: 532px;
+}
+.sony-button {
+  top: 2663px;
+  left: 266px;
+}
+.for-all-products-and-brands-at,
+.original-guarantee-p,
+.you-can-view-your-favourite-br {
+  margin: 0;
+  position: absolute;
+  top: 2959px;
+  left: 168px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 484px;
+}
+.for-all-products-and-brands-at,
+.you-can-view-your-favourite-br {
+  top: 2980px;
+}
+.you-can-view-your-favourite-br {
+  top: 3025px;
+}
+.buy-p,
+.follow-us-p {
+  margin: 0;
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.follow-us-p {
+  top: 2959px;
+  left: 833px;
+  width: 448px;
+}
+.buy-p {
+  top: 3155px;
+  left: 168px;
+}
+.community-p,
+.contact-us-p,
+.my-account-p,
+.our-offers-p,
+.sell-p,
+.services-p {
+  margin: 0;
+  position: absolute;
+  top: 3155px;
+  left: 382px;
+  font-weight: 500;
+  display: inline-block;
+}
+.community-p,
+.contact-us-p,
+.my-account-p,
+.our-offers-p,
+.services-p {
+  left: 595px;
+}
+.community-p,
+.contact-us-p,
+.my-account-p,
+.our-offers-p {
+  left: 807px;
+}
+.community-p,
+.contact-us-p,
+.our-offers-p {
+  left: 1020px;
+}
+.contact-us-p,
+.our-offers-p {
+  left: 1232px;
+}
+.contact-us-p {
+  top: 2959px;
+  left: 1151px;
+  width: 294px;
+}
+.about-us-button,
+.announcements-button,
+.daily-offers-button,
+.profile-button,
+.registration-button,
+.stores-button,
+.twitter-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2994px;
+  left: 833px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.about-us-button,
+.announcements-button,
+.daily-offers-button,
+.profile-button,
+.registration-button,
+.stores-button {
+  top: 3199px;
+  left: 383px;
+}
+.about-us-button,
+.announcements-button,
+.daily-offers-button,
+.profile-button,
+.registration-button {
+  left: 1021px;
+}
+.about-us-button,
+.daily-offers-button,
+.profile-button,
+.registration-button {
+  left: 808px;
+}
+.about-us-button,
+.daily-offers-button,
+.registration-button {
+  left: 596px;
+}
+.daily-offers-button,
+.registration-button {
+  left: 168px;
+}
+.daily-offers-button {
+  left: 1233px;
+}
+.ebaybuysellyahoocom-div,
+.ebaygmailcom-div {
+  position: absolute;
+  top: 2994px;
+  left: 1152px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.ebaybuysellyahoocom-div {
+  top: 3013px;
+}
+.affiliates-button,
+.discussion-button,
+.ebay-money-back,
+.ebays-blogs-button,
+.facebook-button,
+.information-button,
+.membership-button,
+.monthly-offers-button,
+.start-selling-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3029px;
+  left: 833px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.affiliates-button,
+.discussion-button,
+.ebay-money-back,
+.ebays-blogs-button,
+.information-button,
+.membership-button,
+.monthly-offers-button,
+.start-selling-button {
+  top: 3234px;
+  left: 383px;
+}
+.affiliates-button,
+.discussion-button,
+.ebay-money-back,
+.ebays-blogs-button,
+.information-button,
+.membership-button,
+.monthly-offers-button {
+  left: 1021px;
+}
+.affiliates-button,
+.ebay-money-back,
+.ebays-blogs-button,
+.information-button,
+.membership-button,
+.monthly-offers-button {
+  left: 808px;
+}
+.affiliates-button,
+.ebay-money-back,
+.ebays-blogs-button,
+.information-button,
+.monthly-offers-button {
+  left: 596px;
+}
+.affiliates-button,
+.ebay-money-back,
+.ebays-blogs-button,
+.monthly-offers-button {
+  left: 168px;
+}
+.affiliates-button,
+.ebays-blogs-button,
+.monthly-offers-button {
+  left: 1233px;
+}
+.affiliates-button,
+.ebays-blogs-button {
+  top: 3063px;
+  left: 833px;
+}
+.affiliates-button {
+  top: 3268px;
+  left: 383px;
+}
+.bidding-help-button,
+.ebay-giveaways-button,
+.privacy-policy-button,
+.settings-button,
+.terms-conditions,
+.terms-conditions1,
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5,
+.weekly-offers-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3268px;
+  left: 1021px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.bidding-help-button,
+.privacy-policy-button,
+.settings-button,
+.terms-conditions,
+.terms-conditions1,
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5,
+.weekly-offers-button {
+  left: 808px;
+}
+.bidding-help-button,
+.privacy-policy-button,
+.terms-conditions,
+.terms-conditions1,
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5,
+.weekly-offers-button {
+  left: 596px;
+}
+.bidding-help-button,
+.terms-conditions,
+.terms-conditions1,
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5,
+.weekly-offers-button {
+  left: 168px;
+}
+.terms-conditions,
+.terms-conditions1,
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5,
+.weekly-offers-button {
+  left: 1233px;
+}
+.terms-conditions,
+.terms-conditions1,
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5 {
+  top: 3302px;
+  left: 383px;
+}
+.terms-conditions1,
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5 {
+  left: 1021px;
+}
+.terms-conditions2,
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5 {
+  left: 808px;
+}
+.terms-conditions3,
+.terms-conditions4,
+.terms-conditions5 {
+  left: 596px;
+}
+.terms-conditions4,
+.terms-conditions5 {
+  left: 168px;
+}
+.terms-conditions5 {
+  left: 1233px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.starting-div {
+  position: absolute;
+  top: 2699px;
+  left: 232px;
+  display: inline-block;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  left: 308px;
+  color: var(--color-red-100);
+}
+.div1,
+.div2,
+.div3 {
+  left: 625px;
+}
+.div2,
+.div3 {
+  left: 936px;
+}
+.div3 {
+  left: 1245px;
+}
+.starting-div1,
+.starting-div2,
+.starting-div3 {
+  position: absolute;
+  top: 2699px;
+  left: 549px;
+  display: inline-block;
+}
+.starting-div2,
+.starting-div3 {
+  left: 860px;
+}
+.starting-div3 {
+  left: 1169px;
+}
+.collectibles-arts,
+.dell-button,
+.electronics-button,
+.fashion-button,
+.home-garden,
+.musical-instruments-button,
+.nike-button,
+.other-categories-button,
+.samsung-button,
+.sports-button,
+.toys-hobbies {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2663px;
+  left: 587px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.collectibles-arts,
+.dell-button,
+.electronics-button,
+.fashion-button,
+.home-garden,
+.musical-instruments-button,
+.other-categories-button,
+.samsung-button,
+.sports-button,
+.toys-hobbies {
+  left: 902px;
+}
+.collectibles-arts,
+.electronics-button,
+.fashion-button,
+.home-garden,
+.musical-instruments-button,
+.other-categories-button,
+.samsung-button,
+.sports-button,
+.toys-hobbies {
+  left: 1185px;
+}
+.collectibles-arts,
+.electronics-button,
+.fashion-button,
+.home-garden,
+.musical-instruments-button,
+.other-categories-button,
+.sports-button,
+.toys-hobbies {
+  top: 146px;
+  left: 564px;
+  font-size: var(--font-size-xl);
+}
+.electronics-button,
+.fashion-button,
+.home-garden,
+.musical-instruments-button,
+.other-categories-button,
+.sports-button,
+.toys-hobbies {
+  left: 246px;
+}
+.fashion-button,
+.home-garden,
+.musical-instruments-button,
+.other-categories-button,
+.sports-button,
+.toys-hobbies {
+  left: 371px;
+}
+.home-garden,
+.musical-instruments-button,
+.other-categories-button,
+.sports-button,
+.toys-hobbies {
+  left: 472px;
+}
+.home-garden,
+.musical-instruments-button,
+.other-categories-button,
+.toys-hobbies {
+  top: 147px;
+  left: 742px;
+}
+.musical-instruments-button,
+.other-categories-button,
+.toys-hobbies {
+  top: 146px;
+  left: 901px;
+}
+.other-categories-button,
+.toys-hobbies {
+  left: 1094px;
+}
+.other-categories-button {
+  left: 1252px;
+}
+.rectangle-button,
+.rectangle-button1,
+.rectangle-div2 {
+  position: absolute;
+  top: 28px;
+  left: 310px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 631px;
+  height: 49px;
+}
+.rectangle-button,
+.rectangle-button1 {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-1000);
+  padding: 0;
+  background-color: var(--color-gray-200);
+  top: 974px;
+  left: 168px;
+  border-radius: var(--br-2xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 259px;
+  height: 259px;
+}
+.rectangle-button1 {
+  background-color: var(--color-white);
+  left: 485px;
+}
+.line-div4,
+.line-div5,
+.line-div6 {
+  position: absolute;
+  top: -0.75px;
+  left: -0.75px;
+  border-top: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 25.5px;
+  height: 1.5px;
+}
+.line-div5,
+.line-div6 {
+  top: 6.25px;
+}
+.line-div6 {
+  top: 13.25px;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 148px;
+  left: 168px;
+  width: 24px;
+  height: 14px;
+}
+.rectangle-div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 231px;
+  height: 53px;
+}
+.show-more-div {
+  position: absolute;
+  top: 14px;
+  left: 60px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.group-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1840px;
+  left: 656px;
+  width: 231px;
+  height: 53px;
+}
+.explore-other-brands {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  font-size: var(--font-size-8xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.group-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2784px;
+  left: 656px;
+  width: 231px;
+  height: 53px;
+}
+.rectangle-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-indigo-300);
+  width: 196px;
+  height: 49px;
+}
+.shop-now-div {
+  position: absolute;
+  top: 12px;
+  left: 26px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.arrow-icon,
+.group-button3 {
+  position: absolute;
+  top: 18.64px;
+  left: 144px;
+  width: 27px;
+  height: 14.73px;
+}
+.group-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 784px;
+  left: 1178px;
+  width: 196px;
+  height: 49px;
+}
+.fitbit-versa-lite {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.edition-pedometer {
+  margin: 0;
+}
+.andis-hairdryer-micro-turbo-12,
+.fitbit-versa-lite-edition-pe,
+.flashlight-led-ultra-chargeabl {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1614px;
+  left: 372px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.andis-hairdryer-micro-turbo-12,
+.flashlight-led-ultra-chargeabl {
+  left: 791px;
+}
+.flashlight-led-ultra-chargeabl {
+  left: 1210px;
+}
+.div4,
+.p,
+.p1 {
+  position: absolute;
+  top: 1701px;
+  display: inline-block;
+}
+.p {
+  margin: 0;
+  left: 372px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-red-100);
+}
+.div4,
+.p1 {
+  left: 1273px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-4000);
+}
+.p1 {
+  margin: 0;
+  left: 791px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-red-100);
+}
+.span {
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.div5,
+.p2 {
+  position: absolute;
+  display: inline-block;
+}
+.p2 {
+  margin: 0;
+  top: 1701px;
+  left: 1209px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-red-100);
+}
+.div5 {
+  top: 0;
+  left: 4px;
+}
+.line-div7 {
+  position: absolute;
+  top: 9.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-2000);
+  box-sizing: border-box;
+  width: 56px;
+  height: 1px;
+}
+.group-div,
+.group-div1 {
+  position: absolute;
+  top: 1701px;
+  left: 432px;
+  width: 55px;
+  height: 19px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-4000);
+}
+.group-div1 {
+  left: 851px;
+}
+.line-div9 {
+  position: absolute;
+  top: 1710.5px;
+  left: 1268.5px;
+  border-top: 1px solid var(--color-gray-2000);
+  box-sizing: border-box;
+  width: 56px;
+  height: 1px;
+}
+.copyright-1995-2022-ebay-inc {
+  margin: 0;
+  position: absolute;
+  top: 3394px;
+  left: 168px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  display: inline-block;
+}
+.rectangle-div6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-red-100);
+  box-sizing: border-box;
+  width: 165px;
+  height: 45px;
+}
+.group-button4,
+.login-sign-up,
+.rectangle-div6 {
+  cursor: pointer;
+  position: absolute;
+}
+.login-sign-up {
+  top: 12px;
+  left: 6px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-red-200);
+  text-align: center;
+  display: inline-block;
+  width: 153px;
+}
+.group-button4 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 30px;
+  left: 1207px;
+  width: 165px;
+  height: 45px;
+}
+.rectangle-div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray-4200);
+  border: 1px solid var(--color-gray-2100);
+  box-sizing: border-box;
+  width: 206px;
+  height: 45px;
+}
+.with-900-with-trade-in {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 510px;
+  left: 373px;
+  width: 206px;
+  height: 45px;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 43px;
+  left: 898px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.ellipse-icon1 {
+  position: absolute;
+  top: 722px;
+  left: 689px;
+  width: 13px;
+  height: 13px;
+}
+.ellipse-icon1 {
+  left: 719px;
+}
+.ellipse-icon2,
+.ellipse-icon3,
+.ellipse-icon4,
+.ellipse-icon5 {
+  position: absolute;
+  top: 722px;
+  left: 749px;
+  width: 13px;
+  height: 13px;
+}
+.ellipse-icon3,
+.ellipse-icon4,
+.ellipse-icon5 {
+  left: 779px;
+}
+.ellipse-icon4,
+.ellipse-icon5 {
+  left: 809px;
+}
+.ellipse-icon5 {
+  left: 839px;
+}
+.group-button6,
+.line-icon,
+.line-icon1 {
+  position: absolute;
+  top: 27.17px;
+  left: -2.83px;
+  width: 32.83px;
+  height: 32.83px;
+}
+.group-button6,
+.line-icon1 {
+  top: 0;
+}
+.group-button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 428px;
+  left: 1313px;
+  width: 30px;
+  height: 60px;
+}
+.rectangle-div8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-indigo-100);
+  width: 133px;
+  height: 45px;
+}
+.buy-now-div {
+  position: absolute;
+  top: 13px;
+  left: 18px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: 11px;
+  left: 94px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.ezgif-2-button,
+.group-button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 510px;
+  left: 210px;
+  width: 133px;
+  height: 45px;
+}
+.ezgif-2-button {
+  top: 998px;
+  left: 180px;
+  width: 235px;
+  height: 226px;
+  background-image: url(./public/ezgif2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle-div9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 174px;
+  height: 174px;
+}
+.ezgif-6-icon {
+  position: absolute;
+  top: 12px;
+  left: 13px;
+  width: 154px;
+  height: 149px;
+  object-fit: cover;
+}
+.group-button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1601px;
+  left: 168px;
+  width: 174px;
+  height: 174px;
+}
+.group-icon,
+.group-icon1,
+.group-icon2 {
+  position: absolute;
+  top: 1744px;
+  left: 372px;
+  width: 99px;
+  height: 15px;
+  object-fit: cover;
+}
+.group-icon1,
+.group-icon2 {
+  left: 791px;
+}
+.group-icon2 {
+  left: 1209px;
+}
+.help-contact,
+.sell-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45px;
+  left: 1049px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.sell-button {
+  left: 985px;
+}
+.rectangle-div10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-indigo-100);
+  width: 184px;
+  height: 45px;
+}
+.start-selling-div {
+  position: absolute;
+  top: 11px;
+  left: 37px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-button9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2087px;
+  left: 204px;
+  width: 184px;
+  height: 45px;
+}
+.rectangle-div11,
+.rectangle-div12 {
+  position: absolute;
+  top: 1289px;
+  left: 550px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-red-300);
+  width: 130px;
+  height: 32px;
+}
+.rectangle-div12 {
+  top: 0;
+  left: 0;
+}
+.off-div {
+  position: absolute;
+  top: 6px;
+  left: 21px;
+  display: inline-block;
+}
+.group-div2,
+.off-div1 {
+  position: absolute;
+  font-size: var(--font-size-3xl);
+  color: var(--color-red-100);
+}
+.group-div2 {
+  top: 1289px;
+  left: 233px;
+  width: 130px;
+  height: 32px;
+}
+.off-div1 {
+  top: 1295px;
+  left: 571px;
+  display: inline-block;
+}
+.rectangle-div13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 259px;
+  height: 259px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 31px;
+  left: 14px;
+  width: 229px;
+  height: 201px;
+  object-fit: cover;
+}
+.group-button10,
+.image-5-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2386px;
+  left: 168px;
+  width: 259px;
+  height: 259px;
+}
+.image-5-button {
+  top: 1014px;
+  left: 489px;
+  width: 252px;
+  height: 186px;
+  background-image: url(./public/image5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle-div14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 174px;
+  height: 174px;
+}
+.image-8-icon {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+  width: 144px;
+  height: 166px;
+  object-fit: cover;
+}
+.group-button11,
+.rectangle-div15 {
+  position: absolute;
+  width: 174px;
+  height: 174px;
+}
+.group-button11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1603px;
+  left: 588px;
+}
+.rectangle-div15 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+}
+.image-9-icon {
+  position: absolute;
+  top: 6px;
+  left: 4px;
+  width: 161px;
+  height: 161px;
+  object-fit: cover;
+}
+.group-button12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1603px;
+  left: 1007px;
+  width: 174px;
+  height: 174px;
+}
+.rectangle-div16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 259px;
+  height: 259px;
+}
+.image-11-icon {
+  position: absolute;
+  top: 29px;
+  left: 17px;
+  width: 226px;
+  height: 202px;
+  object-fit: cover;
+}
+.group-button13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2386px;
+  left: 485px;
+  width: 259px;
+  height: 259px;
+}
+.image-12-icon {
+  position: absolute;
+  top: 28px;
+  left: 13px;
+  width: 238px;
+  height: 215px;
+  object-fit: cover;
+}
+.group-button14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2386px;
+  left: 800px;
+  width: 259px;
+  height: 259px;
+}
+.image-13-icon {
+  position: absolute;
+  top: 19px;
+  left: 17px;
+  width: 225px;
+  height: 225px;
+  object-fit: cover;
+}
+.group-button15,
+.rectangle-button2 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+  width: 259px;
+  height: 259px;
+}
+.group-button15 {
+  border: 0;
+  background-color: transparent;
+  top: 2386px;
+  left: 1113px;
+}
+.rectangle-button2 {
+  border: 1px solid var(--color-gray-1000);
+  background-color: var(--color-gray-200);
+  top: 976px;
+  left: 798px;
+  border-radius: var(--br-2xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+}
+.image-21-button,
+.yamaha-guitars-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.image-21-button {
+  top: 1032px;
+  left: 822px;
+  width: 211px;
+  height: 173px;
+  background-image: url(./public/image21@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.yamaha-guitars-button {
+  top: 1253px;
+  left: 1171px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-button3 {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-1000);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 976px;
+  left: 1115px;
+  border-radius: var(--br-2xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 259px;
+  height: 259px;
+}
+.rectangle-div19 {
+  position: absolute;
+  top: 1291px;
+  left: 1180px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-red-300);
+  width: 130px;
+  height: 32px;
+}
+.adidas-footballs-button,
+.off-div2 {
+  position: absolute;
+  top: 1297px;
+  left: 1199px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-red-100);
+  display: inline-block;
+}
+.adidas-footballs-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1253px;
+  left: 838px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+}
+.rectangle-div20 {
+  position: absolute;
+  top: 1292px;
+  left: 863px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-red-300);
+  width: 130px;
+  height: 32px;
+}
+.off-div3 {
+  position: absolute;
+  top: 1298px;
+  left: 885px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-red-100);
+  display: inline-block;
+}
+.ebay-1-button,
+.image-22-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-22-button {
+  top: 997.93px;
+  left: 1147px;
+  border-radius: var(--br-6xl);
+  width: 115.64px;
+  height: 248.92px;
+  transform: rotate(-15deg);
+  transform-origin: 0 0;
+  background-image: url(./public/image22@3x.png);
+}
+.ebay-1-button {
+  top: -2px;
+  left: 168px;
+  width: 109px;
+  height: 109px;
+  background-image: url(./public/ebay1@3x.png);
+}
+.search-for-products-brands {
+  position: absolute;
+  top: 43px;
+  left: 336px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-4300);
+  display: inline-block;
+  width: 356px;
+  height: 19px;
+  cursor: text;
+}
+.see-all-deals {
+  position: absolute;
+  top: 14px;
+  left: 53px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.group-button16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1384px;
+  left: 656px;
+  width: 231px;
+  height: 53px;
+}
+.frame-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3446px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1200px) {
+  .rectangle-div5 {
+    cursor: default;
+  }
+}

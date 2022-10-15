@@ -1,0 +1,1258 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div94 {
+  position: absolute;
+  top: 997px;
+  left: 689px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 649px;
+  height: 116px;
+}
+.cash-on-delivery-1-icon3 {
+  position: absolute;
+  top: 1017px;
+  left: 1063px;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+.delivery-truck-1-icon1,
+.security-1-icon1 {
+  position: absolute;
+  top: 1019px;
+  left: 918px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.delivery-truck-1-icon1 {
+  top: 1013px;
+  left: 765px;
+  width: 34px;
+  height: 34px;
+}
+.rectangle-div95 {
+  position: absolute;
+  top: 341px;
+  left: 689px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 649px;
+  height: 116px;
+}
+.cancelling-div,
+.connectivity-div2 {
+  position: absolute;
+  top: 419px;
+  left: 974px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  display: inline-block;
+}
+.connectivity-div2 {
+  left: 841px;
+}
+.deafness-1-icon1,
+.microphone-1-icon1 {
+  position: absolute;
+  top: 361px;
+  left: 1127px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.deafness-1-icon1 {
+  top: 363px;
+  left: 1001px;
+  width: 22px;
+  height: 22px;
+}
+.battery-status-full-1-icon1,
+.bluetooth-1-icon1 {
+  position: absolute;
+  top: 362px;
+  left: 872px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.battery-status-full-1-icon1 {
+  top: 364px;
+  left: 750px;
+  width: 24px;
+  height: 24px;
+}
+.hours-div {
+  position: absolute;
+  top: 400px;
+  left: 729px;
+  display: inline-block;
+}
+.ebay-div,
+.hours-div,
+.playback-div {
+  font-size: var(--font-size-2xl);
+  text-align: center;
+}
+.playback-div {
+  position: absolute;
+  top: 419px;
+  left: 729px;
+  display: inline-block;
+}
+.ebay-div {
+  top: 1056px;
+  left: 765px;
+}
+.delivered-div,
+.ebay-div,
+.rating-div1 {
+  position: absolute;
+  display: inline-block;
+}
+.delivered-div {
+  top: 1075px;
+  left: 749px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+}
+.rating-div1 {
+  top: 485px;
+  left: 814px;
+  font-size: var(--font-size-xs);
+}
+.no-cost-emi1 {
+  font-weight: 500;
+}
+.no-cost-emi-avail-no-cost-em1 {
+  position: absolute;
+  top: 899px;
+  left: 689px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.details-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 899px;
+  left: 1160px;
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  font-family: var(--font-roboto);
+  color: var(--color-indigo-100);
+  text-align: left;
+}
+.details-button2,
+.enter-a-pin-code1,
+.new-div1 {
+  position: absolute;
+  display: inline-block;
+}
+.enter-a-pin-code1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1188px;
+  left: 703px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-3200);
+  text-align: left;
+}
+.new-div1 {
+  top: 711px;
+  left: 689px;
+  font-size: var(--font-size-base);
+}
+.answered-questions-div1,
+.reviews-div1 {
+  position: absolute;
+  top: 485px;
+  left: 917px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.answered-questions-div1 {
+  left: 1021px;
+}
+.bluetooth-div,
+.noise-div,
+.pay-on-div,
+.warranty-div,
+.year-div {
+  position: absolute;
+  top: 400px;
+  left: 851px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  display: inline-block;
+}
+.noise-div,
+.pay-on-div,
+.warranty-div,
+.year-div {
+  top: 1056px;
+  left: 907px;
+}
+.noise-div,
+.pay-on-div,
+.warranty-div {
+  top: 1075px;
+  left: 897px;
+}
+.noise-div,
+.pay-on-div {
+  top: 400px;
+  left: 990px;
+}
+.pay-on-div {
+  top: 1056px;
+  left: 1052px;
+}
+.assistance-div,
+.assistance-div1,
+.days-div,
+.delivery-div1,
+.replacement-div,
+.touch-div,
+.voice-div {
+  position: absolute;
+  top: 1075px;
+  left: 1048px;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  display: inline-block;
+}
+.assistance-div,
+.assistance-div1,
+.days-div,
+.replacement-div,
+.touch-div,
+.voice-div {
+  top: 400px;
+  left: 1114px;
+}
+.assistance-div,
+.assistance-div1,
+.days-div,
+.replacement-div,
+.touch-div {
+  top: 419px;
+  left: 1095px;
+}
+.assistance-div1,
+.days-div,
+.replacement-div,
+.touch-div {
+  top: 1056px;
+  left: 1206px;
+}
+.assistance-div1,
+.replacement-div,
+.touch-div {
+  top: 1075px;
+  left: 1183px;
+}
+.assistance-div1,
+.touch-div {
+  top: 400px;
+  left: 1244px;
+}
+.assistance-div1 {
+  top: 419px;
+  left: 1227px;
+}
+.home-electronics-audio-b,
+.sony-wh-ch710n-noise-cancellin3,
+.sony-wh-ch710n-noise-cancellin4 {
+  position: absolute;
+  top: 223px;
+  left: 167px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.sony-wh-ch710n-noise-cancellin3,
+.sony-wh-ch710n-noise-cancellin4 {
+  left: 563px;
+  font-weight: 500;
+}
+.sony-wh-ch710n-noise-cancellin4 {
+  top: 285px;
+  left: 688px;
+  font-size: var(--font-size-14xl);
+}
+.rectangle-div96 {
+  position: absolute;
+  top: 1179px;
+  left: 689px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-gray-2400);
+  box-sizing: border-box;
+  width: 159px;
+  height: 34px;
+}
+.div64 {
+  top: 532px;
+  left: 689px;
+  font-size: var(--font-size-14xl);
+  font-weight: 500;
+}
+.colour-div2,
+.div64,
+.div65,
+.off-div15 {
+  position: absolute;
+  display: inline-block;
+}
+.div65 {
+  top: 536px;
+  left: 787px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-4000);
+}
+.colour-div2,
+.off-div15 {
+  font-weight: 500;
+}
+.off-div15 {
+  top: 532px;
+  left: 883px;
+  font-size: var(--font-size-14xl);
+  color: var(--color-green);
+}
+.colour-div2 {
+  top: 592px;
+  left: 689px;
+}
+.condition-div1,
+.delivery-div2,
+.offers-div2,
+.product-description-div1 {
+  position: absolute;
+  top: 680px;
+  left: 689px;
+  font-weight: 500;
+  display: inline-block;
+}
+.delivery-div2,
+.offers-div2,
+.product-description-div1 {
+  top: 867px;
+}
+.delivery-div2,
+.product-description-div1 {
+  top: 1147px;
+}
+.product-description-div1 {
+  top: 1264px;
+  font-size: var(--font-size-6xl);
+}
+.specifications-div1 {
+  top: 1314px;
+  left: 690px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.description-div1,
+.specifications-div1,
+.type-div2 {
+  position: absolute;
+  display: inline-block;
+}
+.description-div1 {
+  top: 1565px;
+  left: 688px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.type-div2 {
+  top: 1350px;
+  left: 689px;
+}
+.buy-the-sony1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.a-simple-button1 {
+  margin: 0;
+}
+.buy-the-sony-over-ear-wireless1 {
+  position: absolute;
+  top: 1597px;
+  left: 689px;
+  display: inline-block;
+  width: 675px;
+}
+.connectivity-div3,
+.on-ear-div1 {
+  position: absolute;
+  top: 1350px;
+  left: 861px;
+  display: inline-block;
+}
+.connectivity-div3 {
+  top: 1377px;
+  left: 689px;
+}
+.bluetoothwireless-div1,
+.noise-cancelling-div2,
+.yes-div3 {
+  position: absolute;
+  top: 1377px;
+  left: 861px;
+  display: inline-block;
+}
+.noise-cancelling-div2,
+.yes-div3 {
+  top: 1404px;
+  left: 689px;
+}
+.yes-div3 {
+  left: 861px;
+}
+.battery-life-div1,
+.hours-playback-div2 {
+  position: absolute;
+  top: 1431px;
+  left: 689px;
+  display: inline-block;
+}
+.hours-playback-div2 {
+  left: 861px;
+}
+.minutes-quick-charging1,
+.quick-charging-div1 {
+  position: absolute;
+  top: 1458px;
+  left: 689px;
+  display: inline-block;
+}
+.minutes-quick-charging1 {
+  left: 861px;
+}
+.touch-assistance-div2,
+.voice-assistance-div2,
+.yes-div4,
+.yes-div5 {
+  position: absolute;
+  top: 1485px;
+  left: 689px;
+  display: inline-block;
+}
+.touch-assistance-div2,
+.yes-div4,
+.yes-div5 {
+  left: 861px;
+}
+.touch-assistance-div2,
+.yes-div5 {
+  top: 1512px;
+  left: 689px;
+}
+.yes-div5 {
+  left: 861px;
+}
+.line-div68 {
+  position: absolute;
+  top: 547.5px;
+  left: 781.5px;
+  border-top: 1px solid var(--color-gray-2000);
+  box-sizing: border-box;
+  width: 79px;
+  height: 1px;
+}
+.black-div1 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.ellipse-icon26 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-button88,
+.group-button89,
+.group-button90 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 629px;
+  left: 689px;
+  width: 59px;
+  height: 17px;
+}
+.group-button89,
+.group-button90 {
+  left: 768px;
+  width: 53px;
+}
+.group-button90 {
+  left: 841px;
+  width: 60px;
+}
+.see-more-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-indigo-100);
+  text-align: left;
+  display: inline-block;
+}
+.group-button91,
+.group-icon10 {
+  position: absolute;
+  top: 4.94px;
+  left: 66px;
+  width: 12px;
+  height: 7.06px;
+}
+.group-button91 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1736px;
+  left: 689px;
+  width: 78px;
+  height: 17px;
+}
+.rectangle-div97 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 231px;
+  height: 53px;
+}
+.show-more-div2 {
+  position: absolute;
+  top: 14px;
+  left: 60px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.group-button92 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2281px;
+  left: 656px;
+  width: 231px;
+  height: 53px;
+}
+.similar-products-div1 {
+  position: absolute;
+  top: 1837px;
+  left: 166px;
+  font-size: var(--font-size-18xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.line-div69,
+.rectangle-div98 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div69 {
+  top: 202.5px;
+  left: 167.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  width: 1205px;
+  height: 1px;
+}
+.rectangle-div98 {
+  top: 28px;
+  left: 310px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-gray-1500);
+  width: 631px;
+  height: 49px;
+}
+.mask-group-icon27 {
+  position: absolute;
+  top: 43px;
+  left: 898px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.line-div70 {
+  position: absolute;
+  top: 104.5px;
+  left: 167.5px;
+  border-top: 1px solid var(--color-gray-1500);
+  box-sizing: border-box;
+  width: 1205px;
+  height: 1px;
+}
+.help-contact8 {
+  top: 45px;
+  left: 1047px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.help-contact8,
+.love-1-button7,
+.sell-button8,
+.shopping-cart-2-button5,
+.user-1-button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.sell-button8 {
+  top: 45px;
+  left: 983px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.love-1-button7,
+.shopping-cart-2-button5,
+.user-1-button7 {
+  top: 40px;
+  left: 1284px;
+  width: 24px;
+  height: 24px;
+  background-image: url(./public/user1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.love-1-button7,
+.shopping-cart-2-button5 {
+  left: 1239px;
+  background-image: url(./public/shoppingcart2@3x.png);
+}
+.love-1-button7 {
+  top: 39px;
+  left: 1192px;
+  width: 26px;
+  height: 26px;
+  background-image: url(./public/love1@3x.png);
+}
+.india-1-button7,
+.line-icon21 {
+  position: absolute;
+  top: 50.24px;
+  left: 1325.11px;
+  width: 5.77px;
+  height: 5px;
+}
+.india-1-button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 34px;
+  left: 1340px;
+  width: 32px;
+  height: 35px;
+  background-image: url(./public/india1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.search-for-products-brands3 {
+  position: absolute;
+  top: 43px;
+  left: 336px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-4300);
+  display: inline-block;
+  width: 356px;
+  height: 19px;
+}
+.ebay-1-button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: -2px;
+  left: 168px;
+  width: 109px;
+  height: 109px;
+  background-image: url(./public/ebay1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle-div99 {
+  position: absolute;
+  top: 2423px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1539px;
+  height: 103px;
+}
+.copyright-1995-2022-ebay-inc8 {
+  margin: 0;
+  position: absolute;
+  top: 2467px;
+  left: 303px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-4100);
+  text-align: center;
+  display: inline-block;
+  width: 937px;
+}
+.rectangle-div100 {
+  position: absolute;
+  top: 367px;
+  left: 1143px;
+  background-color: var(--color-gray-700);
+  width: 13px;
+  height: 14px;
+}
+.star-25-icon2,
+.star-26-icon2 {
+  position: absolute;
+  top: 485px;
+  left: 689px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.star-26-icon2 {
+  left: 710px;
+}
+.mask-group-icon28,
+.replacement-1-icon1,
+.star-27-icon2,
+.star-28-icon2 {
+  position: absolute;
+  top: 485px;
+  left: 731px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.mask-group-icon28,
+.replacement-1-icon1,
+.star-28-icon2 {
+  left: 752px;
+}
+.mask-group-icon28,
+.replacement-1-icon1 {
+  left: 773px;
+}
+.replacement-1-icon1 {
+  top: 1014px;
+  left: 1214px;
+  width: 32px;
+  height: 32px;
+}
+.rectangle-div101 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray-800);
+  border: 1px solid var(--color-indigo-100);
+  box-sizing: border-box;
+  width: 281px;
+  height: 56px;
+}
+.add-to-cart5 {
+  position: absolute;
+  top: 18px;
+  left: 104px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.shopping-cart-3-icon1 {
+  position: absolute;
+  top: 15px;
+  left: 65px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.group-button93 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 766px;
+  left: 688px;
+  width: 281px;
+  height: 56px;
+}
+.touch-screen-3-icon1 {
+  position: absolute;
+  top: 361px;
+  left: 1255px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sony-wh-1000xm4-div1 {
+  position: absolute;
+  top: 279px;
+  left: 23px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-div102 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-beige-100);
+  box-sizing: border-box;
+  width: 259px;
+  height: 259px;
+}
+.sony-wh-1000xm4-headphones-and-icon1 {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  border-radius: var(--br-3xl);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.group-button94 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1918px;
+  left: 1116px;
+  width: 259px;
+  height: 307px;
+}
+.rectangle-div103 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1200);
+  box-sizing: border-box;
+  width: 439px;
+  height: 439px;
+}
+.ezgif-11-icon3 {
+  position: absolute;
+  top: 32.55px;
+  left: 12.09px;
+  width: 411.1px;
+  height: 372.96px;
+  object-fit: cover;
+}
+.group-button95 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 282px;
+  left: 185px;
+  width: 439px;
+  height: 439px;
+}
+.rectangle-div104 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1300);
+  box-sizing: border-box;
+  width: 96px;
+  height: 96px;
+}
+.low-px7-front-space-grey-1-icon1 {
+  position: absolute;
+  top: 7px;
+  left: 6px;
+  width: 83px;
+  height: 82px;
+  object-fit: cover;
+}
+.group-button96,
+.rectangle-div105 {
+  position: absolute;
+  width: 96px;
+  height: 96px;
+}
+.group-button96 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 747px;
+  left: 168px;
+}
+.rectangle-div105 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1200);
+  box-sizing: border-box;
+}
+.ezgif-10-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  width: 80px;
+  height: 76px;
+  object-fit: cover;
+}
+.group-button97 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 747px;
+  left: 293px;
+  width: 96px;
+  height: 96px;
+}
+.ezgif-9-icon1 {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  width: 96px;
+  height: 62px;
+  object-fit: cover;
+}
+.group-button98 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 747px;
+  left: 418px;
+  width: 96px;
+  height: 96px;
+}
+.ezgif-12-icon2 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 96px;
+  height: 71px;
+  object-fit: cover;
+}
+.group-button99 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 747px;
+  left: 544px;
+  width: 96px;
+  height: 96px;
+}
+.red-beats-studio1 {
+  position: absolute;
+  top: 279px;
+  left: 38px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.image-15-icon2 {
+  position: absolute;
+  top: 29px;
+  left: 50px;
+  width: 160px;
+  height: 202px;
+  object-fit: cover;
+}
+.group-button100,
+.group-div8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 259px;
+  height: 259px;
+}
+.group-button100 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1918px;
+  left: 168px;
+  height: 307px;
+}
+.jbl-t450bt-div1 {
+  position: absolute;
+  top: 279px;
+  left: 64px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.image-17-icon2 {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  width: 243px;
+  height: 243px;
+  object-fit: cover;
+}
+.group-button101 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1918px;
+  left: 484px;
+  width: 259px;
+  height: 307px;
+}
+.boat-rockerz-5101 {
+  position: absolute;
+  top: 279px;
+  left: 36px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.image-16-icon2 {
+  position: absolute;
+  top: 25px;
+  left: 24px;
+  width: 212px;
+  height: 212px;
+  object-fit: cover;
+}
+.group-button102 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1918px;
+  left: 800px;
+  width: 259px;
+  height: 307px;
+}
+.bank-offers-get-75-up-to-r1,
+.details-button3 {
+  top: 936px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+}
+.bank-offers-get-75-up-to-r1 {
+  position: absolute;
+  left: 691px;
+}
+.details-button3 {
+  background-color: transparent;
+  left: 1061px;
+  text-decoration: underline;
+  font-family: var(--font-roboto);
+  color: var(--color-indigo-100);
+  text-align: left;
+}
+.buy-now-button,
+.details-button3,
+.rectangle-button35 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.rectangle-button35 {
+  background-color: var(--color-indigo-100);
+  top: 766px;
+  left: 1009px;
+  border-radius: var(--br-6xs);
+  width: 282px;
+  height: 56px;
+}
+.buy-now-button {
+  background-color: transparent;
+  top: 785px;
+  left: 1130px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.mask-group-icon29 {
+  position: absolute;
+  top: 781px;
+  left: 1089px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.collectibles-arts4,
+.electronics-button4,
+.fashion-button4,
+.home-garden4,
+.musical-instruments-button4,
+.other-categories-button4,
+.sports-button4,
+.toys-hobbies4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 146px;
+  left: 564px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.electronics-button4,
+.fashion-button4,
+.home-garden4,
+.musical-instruments-button4,
+.other-categories-button4,
+.sports-button4,
+.toys-hobbies4 {
+  left: 246px;
+}
+.electronics-button4:hover {
+  font-family: var(--font-roboto);
+}
+.fashion-button4,
+.home-garden4,
+.musical-instruments-button4,
+.other-categories-button4,
+.sports-button4,
+.toys-hobbies4 {
+  left: 371px;
+}
+.home-garden4,
+.musical-instruments-button4,
+.other-categories-button4,
+.sports-button4,
+.toys-hobbies4 {
+  left: 472px;
+}
+.home-garden4,
+.musical-instruments-button4,
+.other-categories-button4,
+.toys-hobbies4 {
+  top: 147px;
+  left: 742px;
+}
+.musical-instruments-button4,
+.other-categories-button4,
+.toys-hobbies4 {
+  top: 146px;
+  left: 901px;
+}
+.other-categories-button4,
+.toys-hobbies4 {
+  left: 1094px;
+}
+.other-categories-button4 {
+  left: 1252px;
+}
+.line-div71,
+.line-div72,
+.line-div73 {
+  position: absolute;
+  top: -0.75px;
+  left: -0.75px;
+  border-top: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 25.5px;
+  height: 1.5px;
+}
+.line-div72,
+.line-div73 {
+  top: 6.25px;
+}
+.line-div73 {
+  top: 13.25px;
+}
+.group-button103 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 148px;
+  left: 168px;
+  width: 24px;
+  height: 14px;
+}
+.frame-div8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2526px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
